@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "future-store"
+    }
+  },
+  "defaultProject": "future-store",
+  "cli": {
+    "analytics": false
+  }
 }
